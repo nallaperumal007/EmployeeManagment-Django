@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Django migrations
+*/migrations/
+
+# Local development environment files
+.env
+.venv
+venv/
+.venv/
+
+# Database files
+*.sqlite3
+
+# Media and static files (if not stored in version control)
+/media/
+/static/
+
+# IDE files (e.g., VSCode, PyCharm, etc.)
+.idea/
+.vscode/
+
+# MacOS files
+.DS_Store
